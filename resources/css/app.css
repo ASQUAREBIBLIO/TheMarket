@@ -1,0 +1,55 @@
+.welcome{
+    box-shadow: 0 0 2px #020d21;
+}
+
+/* 294b87 1a202c */
+.B {
+    font-size: 300px;
+    font-family: "Arial";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-variant: small-caps;
+    line-height: 0.417;
+    text-align: center;
+    position: absolute;
+    left: 75.898px;
+    top: 230.627px;
+    width: 181px;
+    height: 216px;
+    z-index: 3;
+  }
+  .Rectangle_2 {
+    border-width: 16.667px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-radius: 10px;
+    position: absolute;
+    left: 67px;
+    top: 67px;
+    width: 344.666px;
+    height: 344.666px;
+    z-index: 2;
+  }
+  .Rectangle_1 {
+    border-radius: 20px;
+    background-image: -moz-linear-gradient( 98deg, rgb(26,32,44) 0%, rgb(39,69,122) 49%, rgb(51,105,199) 100%, rgb(255,255,255) 100%);
+    background-image: -webkit-linear-gradient( 98deg, rgb(26,32,44) 0%, rgb(39,69,122) 49%, rgb(51,105,199) 100%, rgb(255,255,255) 100%);
+    background-image: -ms-linear-gradient( 98deg, rgb(26,32,44) 0%, rgb(39,69,122) 49%, rgb(51,105,199) 100%, rgb(255,255,255) 100%);
+    position: absolute;
+    left: 31px;
+    top: 31px;
+    width: 450px;
+    height: 450px;
+    z-index: 1;
+  }
+  .Rectangle_1 {
+    background-image: url("Rectangle 1.png");
+    position: absolute;
+    left: 31px;
+    top: 31px;
+    width: 450px;
+    height: 450px;
+    z-index: 1;
+  }
+
+
